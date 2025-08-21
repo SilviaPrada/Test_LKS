@@ -73,7 +73,9 @@ Jalankan aplikasi di emulator atau device Android.
   <img src="https://github.com/user-attachments/assets/c6be971c-c486-4245-843b-49897841c9ff" width="300" />
   <img src="https://github.com/user-attachments/assets/63bffd87-6e03-42f4-8272-976547e13bce" width="300" />
 </p>
+<img width="610" alt="tab_image" src="https://github.com/user-attachments/assets/d1ba9842-3d69-41d8-869e-a83ac6d64c2d" />
 
-📜 Lisensi
-Aplikasi ini dibuat untuk memenuhi test di PT Lumut Karya Sejahtera.
-Dataset API menggunakan JSONPlaceholder (gratis & publik).
+<br>
+📜 Lisensi <br>
+Aplikasi ini dibuat untuk memenuhi test di PT Lumut Karya Sejahtera.<br>
+Dataset API menggunakan JSONPlaceholder (gratis & publik).<br>
